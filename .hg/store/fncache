@@ -1,0 +1,5 @@
+data/.git/info/exclude.i
+data/.git/description.i
+data/.git/config.i
+data/.git/HEAD.i
+data/.git/hooks/README.sample.i
